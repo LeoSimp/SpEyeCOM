@@ -27,3 +27,13 @@ D:\GitHub\Visual_Studio_Study\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.csproj.Genera
 D:\GitHub\Visual_Studio_Study\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.pdb
 D:\GitHub\Visual_Studio_Study\SpEyeCOM\SpEyeCOM\bin\Debug\SpEyeCOM.dll
 D:\GitHub\Visual_Studio_Study\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.dll
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\bin\Debug\SpEyeCOM.XML
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.pdb
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\bin\Debug\SpEyeCOM.pdb
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.csprojResolveAssemblyReference.cache
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.UserControl_UI.resources
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.SmplUsngForm.resources
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.Properties.Resources.resources
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.csproj.GenerateResource.Cache
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\bin\Debug\SpEyeCOM.dll
+D:\GitHub\MyDll\SpEyeCOM\SpEyeCOM\obj\Debug\SpEyeCOM.dll
