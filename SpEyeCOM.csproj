@@ -36,8 +36,9 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CMNCOM">
-      <HintPath>..\..\..\..\GitHub\Visual_Studio_Study\CMNCOM\CMNCOM\bin\Debug\CMNCOM.dll</HintPath>
+    <Reference Include="CMNCOM, Version=1.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\CMNCOM\CMNCOM\bin\Debug\CMNCOM.dll</HintPath>
     </Reference>
     <Reference Include="INIFileReadWrite, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

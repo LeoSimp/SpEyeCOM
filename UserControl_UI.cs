@@ -204,7 +204,9 @@ namespace SpEyeCOM
             }
 
             CMNCOM.EMoudle EMoudleInstance = new CMNCOM.EMoudle("SpEye");
-            return EMoudleInstance.SendReciveMsg(false, "0", false, 5);
+            string Rev = EMoudleInstance.SendReciveMsg(false, "0", false, 5);
+            EMoudleInstance.DeviceClose();
+            return Rev;
         }
         /// <summary>
         /// With EXE Open+MiniSize+Read is a Quick BarcodeRead
